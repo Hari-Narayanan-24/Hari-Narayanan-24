@@ -1,7 +1,7 @@
 <h1 align="center">Hari Narayanan Bhaskar</h1>
 
 <p align="center">
-  <b>I build agentic AI systems — and the infrastructure that keeps them alive in production.</b>
+  <b>I build agentic AI systems - and the infrastructure that keeps them alive in production.</b>
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 class Hari:
     def __init__(self):
         self.location   = "London, UK"
-        self.building   = "agentic systems that don't fall over at 3am"
+        self.building   = "Turning ideas into working software"
         self.curious_about = ["multi-agent orchestration", "LLM observability",
-                              "progressive delivery", "distributed systems"]
-        self.currently  = "algorithms daily, shipping side projects nightly"
+                              "progressive delivery", "DevOps"]
+        self.currently  = "Engineering daily, shipping side projects nightly"
 ```
 
 ---
@@ -101,5 +101,5 @@ Terraform automation plus scheduled teardown of idle test environments — **70%
 ---
 
 <p align="center">
-  <i>Open to Software Engineer roles in the UK — always up for a conversation about distributed systems or why your agent keeps looping.</i>
+  <i>Open to Software Engineer roles in the UK - always up for a conversation computing</i>
 </p>
