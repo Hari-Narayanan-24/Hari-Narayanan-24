@@ -18,7 +18,7 @@
 ```python
 class Hari:
     def __init__(self):
-        self.location   = "London, UK"
+        self.location   = "United Kingdom"
         self.building   = "Turning ideas into working software"
         self.curious_about = ["multi-agent orchestration", "LLM observability",
                               "progressive delivery", "DevOps"]
