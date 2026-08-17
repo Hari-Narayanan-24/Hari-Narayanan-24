@@ -32,22 +32,15 @@ class Hari:
 ### 🚀 AI-Assisted Multi-Cloud Release Orchestrator
 Deployments shouldn't need a human staring at Grafana at midnight. So I built something that does the staring.
 
-It watches live canary rollouts across **AWS EKS and Azure AKS** simultaneously, pulls latency, error-rate, CPU and replica metrics every 15 seconds, and runs an ML risk engine that scores SLO-violation probability at each rollout step — then hands a recommendation to a human instead of pretending it knows best.
+It watches live canary rollouts across **AWS EKS and Azure AKS** simultaneously, pulls latency, error-rate, CPU and replica metrics every 15 seconds, and runs an ML risk engine that scores SLO-violation probability at each rollout step then hands a recommendation to a human instead of pretending it knows best.
 
-Tested against rule-based baselines with real fault injection:
-
-| | Result |
-|---|---|
-| Risk-scoring precision | **87%** |
-| SLO violations | **↓ 32%** |
-| Rollout duration | **↓ 25%** |
 
 `Kubernetes` `Terraform` `Prometheus` `Grafana` `Argo Rollouts` `Jenkins` `Python`
 
 ---
 
 ### 🧠 Production RAG Platform
-A retrieval system that actually holds up under load — document ingestion through serverless functions into a FAISS vector store, served by an async FastAPI backend with TTL caching and Redis-backed conversation state.
+A retrieval system that actually holds up under load - document ingestion through serverless functions into a FAISS vector store, served by an async FastAPI backend with TTL caching and Redis-backed conversation state.
 
 The interesting part was the rewrite: moving the orchestration layer from LangChain to **LangGraph** turned a brittle chain into a real state machine with approval routing. Autonomous tool selection replaced hardcoded intent classification — **60% better response efficiency**, and human-in-the-loop approval got **30% more effective** because the graph could finally pause in the right places.
 
