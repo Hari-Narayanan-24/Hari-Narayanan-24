@@ -94,5 +94,5 @@ Terraform automation plus scheduled teardown of idle test environments — **70%
 ---
 
 <p align="center">
-  <i>Open to Software Engineer roles in the UK - always up for a conversation computing</i>
+  <i>👨‍💻 Software Engineer | Building things, breaking things, learning things | Let’s talk computing.</i>
 </p>
