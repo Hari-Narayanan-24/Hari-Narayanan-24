@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <b>I build agentic AI systems - and the infrastructure that keeps them alive in production.</b>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/hari-narayanan-bhaskar-174480205">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
