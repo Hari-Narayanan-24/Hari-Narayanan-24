@@ -1,4 +1,8 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&background=FF000000&width=435&lines=Hari+Narayanan+Bhaskar;I+build+agentic+AI+systems+-+and+the+infrastructure+that+keeps+them+alive+in+production.)](https://git.io/typing-svg)</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&background=FF000000&width=435&lines=Hari+Narayanan+Bhaskar;I+build+agentic+AI+systems+-+and+the+infrastructure+that+keeps+them+alive+in+production." alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <b>I build agentic AI systems - and the infrastructure that keeps them alive in production.</b>
