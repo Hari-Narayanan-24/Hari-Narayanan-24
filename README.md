@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&background=FF000000&width=700&lines=Hari+Narayanan+Bhaskar;I+build+agentic+AI+systems+and+the+infrastructure+that+keeps+them+alive+in+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E600&background=FF000000&size=14&lines=Hari+Narayanan+Bhaskar;%E0%AE%B9%E0%AE%B0%E0%AE%BF+%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AE%BE%E0%AE%AF%E0%AE%A3%E0%AE%A9%E0%AF%8D+%E0%AE%AA%E0%AE%BE%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%8D;%E5%93%88%E9%87%8C%C2%B7%E7%BA%B3%E6%8B%89%E4%BA%9A%E5%8D%97%C2%B7%E5%B7%B4%E6%96%AF%E5%8D%A1%E5%B0%94" alt="Hari Narayanan Bhaskar" />
 </h1>
+
+<p align="center">
+  <b>I build agentic AI systems - and the infrastructure that keeps them alive in production.</b>
+</p>
 
 <p align="center">
   <b>I build agentic AI systems - and the infrastructure that keeps them alive in production.</b>
